@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "PLN"
+  "cssTheme": "Pisum",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "showViewHeader": true
 }
