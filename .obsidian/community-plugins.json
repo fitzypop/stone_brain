@@ -2,5 +2,6 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian"
 ]
